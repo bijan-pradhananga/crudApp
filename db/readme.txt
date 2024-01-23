@@ -1,0 +1,1 @@
+make a db named practice and import this sql 
